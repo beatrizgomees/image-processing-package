@@ -1,0 +1,2 @@
+[console_scripts]
+image-process = image_processing.main:main

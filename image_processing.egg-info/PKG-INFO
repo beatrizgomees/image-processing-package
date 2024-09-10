@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.1.0
+Summary: A simple image processing package
+Home-page: https://github.com/beatrizgomees/image_processing
+Author: Beatriz Gomes
+Author-email: beatrizgomesxx@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: Pillow
+Requires-Dist: numpy
+
+# package_name
+
+Description. 
+The package image_processing is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image_processing
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Beatriz Gomes
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
